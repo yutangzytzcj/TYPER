@@ -1,0 +1,52 @@
+Struts2 Hibernate 阶段
+# Struts2 Hibernate 阶段 的单词
+Struts 框架, 架子
+Hibernate 冬眠
+MVC MVC模式
+Module 模型
+View 视图
+Controller 控制器
+Control 控制
+webwork mvc框架
+Apache 基金会名
+StrutsPrepareAndExecuteFilter Filter控制器
+Execute 执行
+and 并且
+Prepare 准备
+action 动作
+namespace 命名空间
+result 结果
+method 方法
+OGNL 对象图导航语言
+ValueStack 值栈组件
+root 根
+context 上下文
+Interceptor 拦截器
+ActionContext Action上下文
+ServletActionContext Servlet中Action上下文
+SessionAware 会话接口
+redirectAction 重定向Action
+chain 链, 链条
+dispatcher 分发
+actionName action名
+includeProperties 包含的属性
+theme 主题
+ActionInvocation Action执行者
+FileUpload 文件上传
+defaultStack 默认拦截器栈
+Hibernate ORM框架
+ORM 对象关系映射
+Configuration 配置
+SessionFactory 会话工厂
+Session 会话
+Transaction 事务
+Query 查询
+identity 标识列
+sequence 序列
+native 自然
+increment 递增, 增加
+assigned 忽略
+generator 自动
+cascade 级联
+fetch 抓取
+ehcache 缓存

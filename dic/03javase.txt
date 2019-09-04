@@ -1,0 +1,99 @@
+Java SE 阶段
+# Java SE 阶段的API常用单词列表
+String 字符串
+encode 编码
+unicode 统一码
+index 索引, 序号
+length 长度
+append 追加
+match 匹配
+insert 插入
+endsWidth 以...为结尾
+startsWidth 以...为开头
+size 大小
+equals 相等
+hash 哈希, 散列
+code 编码
+buffer 缓冲
+builder 构建器
+build 创建
+sleep 休眠
+block 阻塞
+Queue 队列
+Stack 栈
+add 添加
+remove 删除
+iterator 迭代器
+hasNext 是否存在下一个元素
+next 下一个
+delete 删除
+Collection 集合
+List 线性表
+LinkedList 链表形式线性表
+Set 不可重复集
+HashSet hash算法不可重复集
+Map 查找表
+HashMap hash算法查找表
+put 存入map
+key 键
+value 值
+Entry 键值对
+Object 对象
+hashCode 哈希值
+equals 内容比较
+wait 等待
+notify 通知解除等待阻塞
+interrupt 中断
+Exception 异常
+NullPointerException 空指针异常
+File 文件
+FileNotFoundException 文件没有找到异常
+IOException IO异常
+StringIndexOutOfBoundsException 字符串下表越界
+Error 错误
+Throwable 可抛出的接口
+FileFilter 文件过滤器
+InputStream 输入流
+OutputStream 输出流
+read 读取
+write 写出
+flush 刷新缓存
+Reader 字符输入流
+Writer 字符输出流
+Thread 线程
+Runnable 可运行接口
+ExecutorService 执行者服务, 线程池
+Collections 集合工具类
+sort 排序
+asList 转换为List集合
+toArray 转换为数组
+synchronized 同步锁，互斥锁
+Socket 套接字
+TCP 传输控制协议
+IP 网际协议
+mask 面具, 掩码
+gateway 网关
+ServerSocket 服务端套接字
+close 关闭
+e-mail 电子邮件
+lang java语言包
+util 工具包
+Scanner 常用语读取控制台输入
+Math 数学类
+Random 随机数类
+net 网络
+io 输入输出
+dom 文档对象模型
+XML 可扩展标记语言
+field 属性
+get 获取
+set 设置
+XPath 检索xml的语言
+Runtime 运行时
+RuntimeException 运行时异常
+ClassCastException 类造型异常
+
+
+
+
+
